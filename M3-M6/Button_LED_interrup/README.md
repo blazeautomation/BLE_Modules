@@ -10,12 +10,8 @@ This example demostrates the LED ON-OFF control by button interrupts. There are 
 ---
 ## Module compatibility
 ---
-1. B1BMBG22M1
-2. B1BMBG22M2
-3. B1BMBG22M3
-4. B1BMBG22M4
-5. B1BMBG22M5
-6. B1BMBG22M6
+1. B1BMBG22M3
+2. B1BMBG22M6
 
 ---
 ## Description
@@ -23,7 +19,7 @@ This example demostrates the LED ON-OFF control by button interrupts. There are 
 1. The LED and Switch GPIO mapping is given below:
     1. 1 LED GPIO Mapping
 
-    | LEDs | GPIOs  | M1/M2/M3 | M4/M5/M6
+    | LEDs | GPIOs  | M3 | M6
     | :---: | :---: | :---: | :---: |
     | LED 1 | PB02 | Enabled | Enabled |
     | LED 2 | PC04 | Enabled | Enabled |
@@ -32,7 +28,7 @@ This example demostrates the LED ON-OFF control by button interrupts. There are 
 
     1. 2 Switch GPIO Mapping
 
-    | Switches | GPIOs  | M1/M2/M3 | M4/M5/M6
+    | Switches | GPIOs  | M3 | M6
     | :---: | :---: | :---: | :---: |
     | S 1 | PB01 | Enabled | Enabled |
     | S 2 | PC01 | Enabled | Enabled |

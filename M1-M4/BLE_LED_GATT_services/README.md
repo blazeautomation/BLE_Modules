@@ -11,11 +11,7 @@ This example demonstrates the controlling of LED 1 on the dev board using the BL
 ## Module compatibility
 ---
 1. B1BMBG22M1
-2. B1BMBG22M2
-3. B1BMBG22M3
-4. B1BMBG22M4
-5. B1BMBG22M5
-6. B1BMBG22M6
+2. B1BMBG22M4
 ---
 ## Description
 ---
@@ -25,7 +21,7 @@ This example demonstrates the controlling of LED 1 on the dev board using the BL
 4. You can write the value "0x00" to OFF the LED 1 and write "0x01" to ON the LED 1.
 5. The LED GPIO mapping is given below:
 
-    | LEDs | GPIOs  | M1/M2/M3 | M4/M5/M6
+    | LEDs | GPIOs  | M1 | M4
     | :---: | :---: | :---: | :---: |
     | LED 1 | PB02 | Enabled | Enabled |
     | LED 2 | PC04 | Enabled | Enabled |
